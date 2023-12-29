@@ -1,0 +1,46 @@
+personID,first_name,last_name,locationID,taxID,experience,flying_airline,flying_tail,license_types,miles,funds,vacations,associated_flight
+p1,Jeanne,Nelson,port_1,330-12-6907,31,Delta,n106js,jets,NULL,NULL,NULL,dl_10
+p10,Lawrence,Morgan,port_3,769-60-1266,15,Lufthansa,n620la,jets,NULL,NULL,NULL,lf_20
+p11,Sandra,Cruz,port_3,369-22-9505,22,KLM,n161fk,"jets, props",NULL,NULL,NULL,km_16
+p12,Dan,Ball,port_3,680-92-5329,24,Ryanair,n341eb,props,NULL,NULL,NULL,ry_34
+p13,Bryant,Figueroa,port_3,513-40-4168,24,KLM,n161fk,jets,NULL,NULL,NULL,km_16
+p14,Dana,Perry,port_3,454-71-7847,13,KLM,n161fk,jets,NULL,NULL,NULL,km_16
+p15,Matt,Hunt,port_10,153-47-8101,30,Japan Airlines,n305fv,"jets, props, testing",NULL,NULL,NULL,ja_35
+p16,Edna,Brown,port_10,598-47-5172,28,Japan Airlines,n305fv,jets,NULL,NULL,NULL,ja_35
+p17,Ruby,Burgess,port_10,865-71-6800,36,NULL,NULL,"jets, props",NULL,NULL,NULL,
+p18,Esther,Pittman,port_10,250-86-2784,23,NULL,NULL,jets,NULL,NULL,NULL,
+p19,Doug,Fowler,port_17,386-39-7881,2,NULL,NULL,jets,NULL,NULL,NULL,
+p2,Roxanne,Byrd,port_1,842-88-1257,9,Delta,n106js,"jets, props",NULL,NULL,NULL,dl_10
+p20,Thomas,Olson,port_17,522-44-3098,28,NULL,NULL,jets,NULL,NULL,NULL,
+p21,Mona,Harrison,plane_1,NULL,NULL,NULL,NULL,NULL,771,700,AMS,
+p22,Arlene,Massey,plane_1,NULL,NULL,NULL,NULL,NULL,374,200,AMS,
+p23,Judith,Patrick,plane_1,NULL,NULL,NULL,NULL,NULL,414,400,BER,
+p24,Reginald,Rhodes,plane_5,NULL,NULL,NULL,NULL,NULL,292,500,"MUC, CDG",
+p25,Vincent,Garcia,plane_5,NULL,NULL,NULL,NULL,NULL,390,300,MUC,
+p26,Cheryl,Moore,plane_5,NULL,NULL,NULL,NULL,NULL,302,600,MUC,
+p27,Michael,Rivera,plane_8,NULL,NULL,NULL,NULL,NULL,470,400,BER,
+p28,Luther,Matthews,plane_8,NULL,NULL,NULL,NULL,NULL,208,400,LGW,
+p29,Moses,Parks,plane_13,NULL,NULL,NULL,NULL,NULL,292,700,"FCO, LHR",
+p3,Tanya,Nguyen,port_1,750-24-7616,11,United,n380sd,jets,NULL,NULL,NULL,un_38
+p30,Ora,Steele,plane_13,NULL,NULL,NULL,NULL,NULL,686,500,"FCO, MAD",
+p31,Antonio,Flores,plane_13,NULL,NULL,NULL,NULL,NULL,547,400,FCO,
+p32,Glenn,Ross,plane_13,NULL,NULL,NULL,NULL,NULL,257,500,FCO,
+p33,Irma,Thomas,plane_20,NULL,NULL,NULL,NULL,NULL,564,600,CAN,
+p34,Ann,Maldonado,plane_20,NULL,NULL,NULL,NULL,NULL,211,200,HND,
+p35,Jeffrey,Cruz,port_12,NULL,NULL,NULL,NULL,NULL,233,500,LGW,
+p36,Sonya,Price,port_12,NULL,NULL,NULL,NULL,NULL,293,400,FCO,
+p37,Tracy,Hale,port_12,NULL,NULL,NULL,NULL,NULL,552,700,"FCO, LGW, CDG",
+p38,Albert,Simmons,port_14,NULL,NULL,NULL,NULL,NULL,812,700,MUC,
+p39,Karen,Terry,port_15,NULL,NULL,NULL,NULL,NULL,541,400,MUC,
+p4,Kendra,Jacobs,port_1,776-21-8098,24,United,n380sd,"jets, props",NULL,NULL,NULL,un_38
+p40,Glen,Kelley,port_20,NULL,NULL,NULL,NULL,NULL,441,700,HND,
+p41,Brooke,Little,port_3,NULL,NULL,NULL,NULL,NULL,875,300,NULL,
+p42,Daryl,Nguyen,port_4,NULL,NULL,NULL,NULL,NULL,691,500,NULL,
+p43,Judy,Willis,port_14,NULL,NULL,NULL,NULL,NULL,572,300,NULL,
+p44,Marco,Klein,port_15,NULL,NULL,NULL,NULL,NULL,572,500,NULL,
+p45,Angelica,Hampton,port_16,NULL,NULL,NULL,NULL,NULL,663,500,NULL,
+p5,Jeff,Burton,port_1,933-93-2165,27,British Airways,n616lt,jets,NULL,NULL,NULL,ba_61
+p6,Randal,Parks,port_1,707-84-4555,38,British Airways,n616lt,"jets, props",NULL,NULL,NULL,ba_61
+p7,Sonya,Owens,port_2,450-25-5617,13,Lufthansa,n620la,jets,NULL,NULL,NULL,lf_20
+p8,Bennie,Palmer,port_2,701-38-2179,12,Ryanair,n341eb,props,NULL,NULL,NULL,ry_34
+p9,Marlene,Warner,port_3,936-44-6941,13,Lufthansa,n620la,"jets, props, testing",NULL,NULL,NULL,lf_20
