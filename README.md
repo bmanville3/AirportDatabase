@@ -10,4 +10,4 @@ based on the description and RETURNED file from the professor.
 
 Phase III, we were given cs4400_sams_phase3_database_RETURNED.sql to base the procedures on which can be found in cs4400_phase3_stored_procedures_team22.sql.
 
-The other group members (to give them due credit): Anand Singh, Luke Dean, Nyshad Williams.
+The other group members (to give them due credit) were Anand Singh, Luke Dean, Nyshad Williams. I did the majority (>70%) of Phase I and II while Phase III was more evenly split (I did around 20%).
